@@ -10,5 +10,9 @@
 * *Python*
 * *C*
 
-Надеюсь, что в институте я получу нужные знания для осуществления своей мечты
+Надеюсь, что в институте я получу нужные знания для осуществления своей мечты.
+
+
+## Задание 1.1 ИСР
+![Задание 1.1 ИСР](http://qrcoder.ru/code/?https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1InVR55dIvG0sPnK1-SohiiNaEoWkWUf8chfaIGC_JJc%2Fedit&4&0)
 
