@@ -14,5 +14,5 @@
 
 
 ## Задание 1.1 ИСР
-![Задание 1.1 ИСР](http://qrcoder.ru/code/?https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1InVR55dIvG0sPnK1-SohiiNaEoWkWUf8chfaIGC_JJc%2Fedit&4&0)
+![Задание 1.1 ИСР](http://qrcoder.ru/code/?https%3A%2F%2Fgit.herzen.spb.ru%2F190575%2F2nd-sem_practice%2Fblob%2Fmaster%2F%25D0%2598%25D0%25A1%25D0%25A0_1.1.pdf&4&0)
 
