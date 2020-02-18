@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  </head>
+<body>
+<div> 
+<p id="show_text" onclick="show_text()">Рудницкий Никита Дмитриевич</p>
+<p id="close_text"; style="display:none" onclick="close_text()">Рудницкий Никита Дмитриевич</p>
+<div id="text" style="display:none">
+<div class="container">
+      <div class="row">
+            <div class="col-md-5">
+                <center><a href="https://imgbb.com/"><img src="https://i.ibb.co/RbRHFjd/image.jpg" alt="image" border="0" style="width: 70%"></a></center>
+                <br>
+            </div>
+
+
+            <div class="col-md-7">
+                <h4>Иванов Александр Петрович</h4>
+
+                <p>
+                    Мой прадедушка родился в селе Утяшкино в 1918 году. До войны жил в посёлке Русский Акташ, откуда и был призван на войну. </p>
+                    <p>
+                    В 1943 году в бою под селом Недай-Вода (Украиская ССР) его отряд попал под сильный артиллерийский и ружейно-пулемётный огонь. Александр Петрович, собрав всё своё мужество в кулак, выдвинулся на передовой наблюдательный пункт и разведал места нахождения станковых пулемётов противника, мешающих продвижению наступающей пехоты, которые были подавлены. За это его наградили медалью за отвагу. </p>
+                    <p>
+                    Спустя некоторое время наступления Красной Армии, прадеда отправили на Белорусский фронт, откуда он дошёл до Берлина. После войны его товарищи с фронта каждый год приезжали в гости, чтобы вместе отпраздновать Великую Победу. </p>
+            </div> 
+        </div>
+    </div>
+</div>
+</div>
+</body>
+</html>
+<style>
+
+p#show_text, p#close_text {
+  cursor: pointer;
+  font-family: cursive;
+  line-height: 13px;
+  text-indent: 22px;
+  line-height: 33px;
+  border: 1px solid #d2d2d2;
+  font-size: 18px;
+  transition: 1s;
+}
+</style>
+
+<script language="JavaScript">
+function show_text() {
+    document.getElementById("text").setAttribute("style", "opacity:1; height: 100%; transition: 1s;");
+    document.getElementById("show_text").setAttribute("style", "display: none");
+    document.getElementById("close_text").setAttribute("style", "display: block");
+}
+
+function close_text() {
+    document.getElementById("text").setAttribute("style", "display: none");
+    document.getElementById("close_text").setAttribute("style", "display: none");
+    document.getElementById("show_text").setAttribute("style", "display: block");
+}
+</script>
