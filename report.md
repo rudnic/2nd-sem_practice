@@ -9,7 +9,7 @@
 ![Задание 1.2 ИСР](http://qrcoder.ru/code/?https%3A%2F%2Fgit.herzen.spb.ru%2F190575%2F2nd-sem_practice%2Fblob%2Fmaster%2F%25D0%25AD%25D1%2582%25D0%25B0%25D0%25BF%25D1%258B_%25D1%2580%25D0%25B0%25D0%25B7%25D0%25B2%25D0%25B8%25D1%2582%25D0%25B8%25D1%258F_%25D0%25B8%25D0%25BD%25D1%2584%25D0%25BE%25D1%2580%25D0%25BC%25D0%25B0%25D1%2582%25D0%25B8%25D0%25BA%25D0%25B8.png&4&0)
 
 ## Задание 1.3 ИСР
-Задание выполнено в группе
+##### Задание выполнено в группе
 ![Задание 1.3 ИСР](http://qrcoder.ru/code/?https%3A%2F%2Fgit.herzen.spb.ru%2F190575%2F2nd-sem_practice%2Fblob%2Fmaster%2F%25D0%2598%25D0%25A1%25D0%25A0_1.3.pdf&4&0)
 
 ## Задание 1.4 ИСР
