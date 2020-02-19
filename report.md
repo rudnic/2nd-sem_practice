@@ -2,6 +2,16 @@
 ## Рудницкий Никита
 
 
+## Задание по вёрстки
+![Вёрстка](http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Fherzenuni%2Fzadanie-po-markdown-i-git-rudnic%2Fblob%2Fmaster%2FREADME.md&4&0)
+
+## Задание по кафедре ко Дню Победы
+#### Исходный код
+![Исходный код](http://qrcoder.ru/code/?https%3A%2F%2Fgit.herzen.spb.ru%2F190575%2F2nd-sem_practice%2Fblob%2Fmaster%2F%25D0%2597%25D0%25B0%25D0%25B4%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5_%25D0%25BF%25D0%25BE_%25D0%25BA%25D0%25B0%25D1%2584%25D0%25B5%25D0%25B4%25D1%2580%25D0%25B5_%25D0%25BA%25D0%25BE_%25D0%2594%25D0%25BD%25D1%258E_%25D0%259F%25D0%25BE%25D0%25B1%25D0%25B5%25D0%25B4%25D1%258B.html&3&0)
+
+#### Пример работы кода
+![Пример работы кода](http://qrcoder.ru/code/?https%3A%2F%2Fkodaktor.ru%2F%3F%21%3Dafbe9b9&4&0)
+
 ## Задание 1.1 ИСР
 ![Задание 1.1 ИСР](http://qrcoder.ru/code/?https%3A%2F%2Fgit.herzen.spb.ru%2F190575%2F2nd-sem_practice%2Fblob%2Fmaster%2F%25D0%2598%25D0%25A1%25D0%25A0_1.1.pdf&4&0)
 
